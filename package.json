@@ -1,0 +1,23 @@
+{
+  "name": "node-starterpack",
+  "version": "0.0.1",
+  "description": "NodeJs Express Starterpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irfnrdh/node-starterpack.git"
+  },
+  "keywords": [
+    "Express",
+    "NodeJs"
+  ],
+  "author": "irfnrdh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/irfnrdh/node-starterpack/issues"
+  },
+  "homepage": "https://github.com/irfnrdh/node-starterpack#readme"
+}
